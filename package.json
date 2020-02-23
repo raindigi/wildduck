@@ -61,7 +61,7 @@
         "node-forge": "0.8.5",
         "nodemailer": "6.3.0",
         "npmlog": "4.1.2",
-        "openpgp": "4.6.0",
+        "openpgp": "4.8.1",
         "pem": "1.14.2",
         "pwnedpasswords": "1.0.4",
         "qrcode": "1.4.1",
