@@ -45,7 +45,7 @@
         "humanname": "0.2.2",
         "iconv-lite": "0.5.0",
         "ioredfour": "1.0.2-ioredis-02",
-        "ioredis": "4.14.0",
+        "ioredis": "4.15.1",
         "isemail": "3.2.0",
         "joi": "14.3.1",
         "js-yaml": "3.13.1",
