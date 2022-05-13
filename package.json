@@ -60,7 +60,7 @@
         "mongodb-extended-json": "1.10.1",
         "node-forge": "0.8.5",
         "nodemailer": "6.3.0",
-        "npmlog": "4.1.2",
+        "npmlog": "5.0.0",
         "openpgp": "4.6.0",
         "pem": "1.14.2",
         "pwnedpasswords": "1.0.4",
