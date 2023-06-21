@@ -65,7 +65,7 @@
         "pem": "1.14.2",
         "pwnedpasswords": "1.0.4",
         "qrcode": "1.4.1",
-        "restify": "8.4.0",
+        "restify": "10.0.0",
         "restify-logger": "2.0.1",
         "seq-index": "1.1.0",
         "smtp-server": "3.5.0",
