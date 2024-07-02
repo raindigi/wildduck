@@ -55,7 +55,7 @@
         "libqp": "1.1.0",
         "mailsplit": "4.4.1",
         "mobileconfig": "2.3.1",
-        "mongo-cursor-pagination": "7.1.0",
+        "mongo-cursor-pagination": "7.2.1",
         "mongodb": "3.3.1",
         "mongodb-extended-json": "1.10.1",
         "node-forge": "0.8.5",
