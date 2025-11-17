@@ -48,7 +48,7 @@
         "ioredis": "4.14.0",
         "isemail": "3.2.0",
         "joi": "14.3.1",
-        "js-yaml": "3.13.1",
+        "js-yaml": "4.1.1",
         "key-fingerprint": "1.1.0",
         "libbase64": "1.2.1",
         "libmime": "4.1.3",
